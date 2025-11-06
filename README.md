@@ -61,5 +61,3 @@ The notebook includes:
 * Visualize and interpret decision paths
 
 
-
-Would you like me to also generate a **`requirements.txt`** file to go with it?
